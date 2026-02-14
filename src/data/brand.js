@@ -4,6 +4,5 @@ export const brand = {
   phoneHref: '+79590260036',
   ipLabel: 'ИП: ШЕВЧЕНКО ВЛАДИСЛАВ АНДРЕЕВИЧ',
   ipInn: 'ИНН: 345969504210',
-  telegramUrl: 'https://t.me/REPLACE_ME',
-  whatsappUrl: 'https://wa.me/79590260036'
+  telegramUrl: 'https://t.me/REPLACE_ME'
 };
